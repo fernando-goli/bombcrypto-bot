@@ -130,7 +130,13 @@ O bot não interage diretamente com o jogo, ele somente tira print da tela do
 game para encontrar os botões e simula movimentos do mouse, isso faz com que
 diferenciar o bot de um humano seja muito difícil.
 
-## Ajustando o bot
+## Multiaccount
+O multi account funciona considerando seu sistema operacional - então altere isso na config.yaml, 
+ou DE (Desktop Enviroment, ou ambiente de trabalho. ex: Gnome, KDE, Qtile) no caso do Linux.
+
+### Qtile
+No caso do Qtile, o que pode funcionar para outros Window Managers mesmo que não tenha sido testado,
+deixe todas a contas abertas em um mesmo grupo, com o layout "max" ativo e atalho para mudar de foco sendo "alt" + "down". 
 
 ### Por que uns ajustes podem ser necessários?
 
