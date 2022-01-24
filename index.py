@@ -61,7 +61,7 @@ def nextAccountQtile():
   return True
 
 def nextAccount():
-  if operational_system == "qtile":
+  if operational_system == "ubuntu":
     return nextAccountQtile()
   return False
 

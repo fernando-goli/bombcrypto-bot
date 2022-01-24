@@ -101,7 +101,7 @@
     hero_threshold: 0.8
     home_button_threshold: 0.9
 
- multiaccount: 
+  multiaccount: 
     # [en_US]
     # specify your operational system, or DE in case you are using linux
     # ie. windows, macOS, ubuntu, kde, plasma, qtile, ...
